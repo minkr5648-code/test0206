@@ -1,4 +1,8 @@
 # 쿠팡 스타일 고객상담기록관리시스템 (CRM Lite)
+## link
+- 바로가기 (web-site): http://abc.co.kr
+- 기획서 (figma-site): http://abc.co.kr
+- 디자인시안 (Figma): http://abc.co.kr
 
 ## 제품 개요
 CRM Lite는 쿠팡 고객센터 상담원이 사용하는 내부 상담 기록 관리 시스템입니다.  
